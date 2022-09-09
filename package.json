@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev --port=5678",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0-rc.8"
+  },
+  "dependencies": {
+    "sass": "^1.54.5",
+    "swiper": "^8.3.2",
+    "vuetify": "^3.0.0-beta.9"
+  }
+}
