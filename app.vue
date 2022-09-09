@@ -8,7 +8,7 @@
 
     <div style="text-align: center; " class="py-3">
       <h2>
-        Who am i?
+        Who am I?
       </h2>
     </div>
 
