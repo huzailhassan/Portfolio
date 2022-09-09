@@ -4,6 +4,7 @@
     "build": "nuxt build",
     "dev": "nuxt dev --port=5678",
     "generate": "nuxt generate",
+    "start": "nuxt start",
     "preview": "nuxt preview",
     "heroku-postbuild": "npm run build"
   },
